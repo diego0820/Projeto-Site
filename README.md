@@ -1,2 +1,2 @@
 # Projeto-Site
- Projeto de um site realizado no curso de GIT
+ Projeto de um site simples realizado para testar aprendizados no curso de GIT
